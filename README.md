@@ -21,12 +21,41 @@
 ---
 
 <h3 align="left">📞 Contactos:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/robert-pillaca" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Robert Pillaca" height="30" width="40" />
-</a>
-</p>
+<table style="border: none; border-collapse: collapse;">
+<tr>
 
+<td style="border: none; padding: 5px;">
+<a href="https://www.linkedin.com/in/robert-pillaca" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
+</a>
+</td>
+
+<td style="border: none; padding: 5px;">
+<a href="https://wa.me/TUNUMERO" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="30"/>
+</a>
+</td>
+
+<td style="border: none; padding: 5px;">
+<a href="https://www.facebook.com/TUUSUARIO" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30"/>
+</a>
+</td>
+
+<td style="border: none; padding: 5px;">
+<a href="https://www.instagram.com/TUUSUARIO" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/>
+</a>
+</td>
+
+<td style="border: none; padding: 5px;">
+<a href="https://www.tiktok.com/@TUUSUARIO" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" width="30"/>
+</a>
+</td>
+
+</tr>
+</table>
 ---
 
 
