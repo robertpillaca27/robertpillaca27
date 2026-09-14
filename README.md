@@ -17,14 +17,14 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="60%" valign="middle">
+      <td width="60%" valign="middle" align="left">
         <p>💻 Estoy en GitHub como <b>robertpillaca27</b></p>
         <p>🌱 Actualmente aprendiendo <b>Lenguaje C, React.js, Node.js</b> y gestión de entornos de BD</p>
         <p>💬 Pregúntame acerca de <b>SQL Server, Java, Python, Modelado de BD y BI</b></p>
         <p>📫 Mis experiencias y perfil en <b>LinkedIn</b></p>
       </td>
       <td width="40%" align="center" valign="middle">
-        <img src="https://media.giphy.com/media/qgQUGGAC3P4FmEPQ52/giphy.gif" width="280px" alt="Matrix Code Animation" />
+        <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-matrix.svg" width="180px" alt="Matrix Code" />
       </td>
     </tr>
   </table>
