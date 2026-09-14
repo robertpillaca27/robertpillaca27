@@ -10,7 +10,7 @@
 
 - 💻 Estoy en GitHub como [robertpillaca27](https://github.com/robertpillaca27)
 - 🌱 Actualmente aprendiendo **Lenguaje C, Frameworks como react.js y node.js y gestión de entornos de base de datos**
-- 💬 Pregúntame acerca de **SQL Server, Java, Python, y Modelado de Bases de Datos**
+- 💬 Pregúntame acerca de **SQL Server, Java, Python, Modelado de Bases de Datos y BI**
 - 📫 Mis experiencias y perfil en [LinkedIn](https://www.linkedin.com/in/robert-pillaca)
 
 ---
