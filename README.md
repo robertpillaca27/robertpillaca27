@@ -33,6 +33,22 @@
   </table>
 </div>
 
+<div align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td width="60%" valign="middle" align="left" style="border: none;">
+        <p>💻 Estoy en GitHub como <b>robertpillaca27</b></p>
+        <p>🌱 Actualmente aprendiendo <b>Lenguaje C, React.js, Node.js</b> y gestión de entornos de BD</p>
+        <p>💬 Pregúntame acerca de <b>SQL Server, Java, Python, Modelado de BD y BI</b></p>
+        <p>📫 Mis experiencias y perfil en <b>LinkedIn</b></p>
+      </td>
+      <td width="40%" align="center" valign="middle" style="border: none;">
+        <img src="https://img.freepik.com/vector-gratis/ilustracion-concepto-hacker_114360-2011.jpg" width="220px" alt="Gato Hacker" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 🧩 Mis Proyectos
 
 | **Nombre** | **Descripción** | **GitHub Stars** |
