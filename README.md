@@ -4,12 +4,15 @@
   </h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Desarrollador+Web+Full+Stack+en+formaci%C3%B3n;Apasionado+por+la+tecnolog%C3%ADa" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=
+      Estudiante+de+Ingenier%C3%ADa+de+Sistemas;
+      Desarrollador+Web+Full+Stack+en+formaci%C3%B3n;
+      Apasionado+por+la+tecnolog%C3%ADa" alt="Typing SVG" />
   </a>
 </div>
 
 - 💻 Estoy en GitHub como [robertpillaca27](https://github.com/robertpillaca27)
-- 🌱 Actualmente aprendiendo **Lenguaje C, Frameworks como react.js y node.j, y gestión de entornos de base de datos**
+- 🌱 Actualmente aprendiendo **Lenguaje C, Frameworks como react.js y node.js y gestión de entornos de base de datos**
 - 💬 Pregúntame acerca de **SQL Server, Java, Python, y Modelado de Bases de Datos**
 - 📫 Mis experiencias y perfil en [LinkedIn](https://www.linkedin.com/in/robert-pillaca)
 
