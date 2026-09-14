@@ -21,7 +21,7 @@
         <p>💻 Estoy en GitHub como <a href="https://github.com/robertpillaca27"><b>robertpillaca27</b></a></p>
         <p>🌱 Actualmente aprendiendo <b>Lenguaje C, React.js, Node.js</b> y gestión de entornos de BD</p>
         <p>💬 Pregúntame acerca de <b>SQL Server, Java, Python, Modelado de BD y BI</b></p>
-        <p>📫 Mis experiencias y perfil en <b>LinkedIn</b></p>
+        <p>📫 Mis experiencias y perfil en <a href=""><b>LinkedIn</b></p>
       </td>
       <td width="25%" height="20%" align="center" valign="middle" style="border: none;">
         <a href="https://git.io/typing-svg">
