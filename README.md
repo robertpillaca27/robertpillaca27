@@ -17,7 +17,7 @@
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
-      <td width="70%" valign="middle" align="left" style="border: none;">
+      <td width="75%" valign="middle" align="left" style="border: none;">
         <p>💻 Estoy en GitHub como <b>robertpillaca27</b></p>
         <p>🌱 Actualmente aprendiendo <b>Lenguaje C, React.js, Node.js</b> y gestión de entornos de BD</p>
         <p>💬 Pregúntame acerca de <b>SQL Server, Java, Python, Modelado de BD y BI</b></p>
