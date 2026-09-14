@@ -15,17 +15,19 @@
 
 ---
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=200&color=61AFEF&background=1E1E1E00&center=true&vCenter=true&multiline=true&width=500&height=160&lines=public+function+loadUrl(%24url)+%7B;++++%24curl+%3D+curl_init()%3B;++++%24header+%3D+%5B%22Cache-Control%22%5D%3B;++++return+%24companyList%3B;%7D" alt="Typing Code Animation" />
-  </a>
-
-  <br><br>
-
-  <p>💻 Estoy en GitHub como <b>robertpillaca27</b></p>
-  <p>🌱 Actualmente aprendiendo <b>Lenguaje C, React.js, Node.js</b> y gestión de entornos de BD</p>
-  <p>💬 Pregúntame acerca de <b>SQL Server, Java, Python, Modelado de BD y BI</b></p>
-  <p>📫 Mis experiencias y perfil en <b>LinkedIn</b></p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div align="left">
+    <p>💻 Estoy en GitHub como <b>robertpillaca27</b></p>
+    <p>🌱 Actualmente aprendiendo <b>Lenguaje C, React.js, Node.js</b> y gestión de entornos de BD</p>
+    <p>💬 Pregúntame acerca de <b>SQL Server, Java, Python, Modelado de BD y BI</b></p>
+    <p>📫 Mis experiencias y perfil en <b>LinkedIn</b></p>
+  </div>
+  
+  <div>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=100&color=61AFEF&background=1E1E1E00&center=false&vCenter=true&multiline=true&width=360&height=160&lines=public+function+loadUrl(%24url)+%7B;++++%24curl+%3D+curl_init()%3B;++++%24header+%3D+%5B%22Cache-Control%22%5D%3B;++++return+%24companyList%3B;%7D" alt="Typing Code Animation" />
+    </a>
+  </div>
 </div>
 
 ## 🧩 Mis Proyectos
