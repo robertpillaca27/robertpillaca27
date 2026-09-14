@@ -32,31 +32,9 @@
   </table>
 </div>
 
-<div align="left">
-  <div style="display: inline-block; vertical-align: middle; width: 65%;">
-    <p>💻 Estoy en GitHub como <b>robertpillaca27</b></p>
-    <p>🌱 Actualmente aprendiendo <b>Lenguaje C, React.js, Node.js</b> y gestión de entornos de BD</p>
-    <p>💬 Pregúntame acerca de <b>SQL Server, Java, Python, Modelado de BD y BI</b></p>
-    <p>📫 Mis experiencias y perfil en <b>LinkedIn</b></p>
-  </div>
-  <div style="display: inline-block; vertical-align: middle; width: 30%; text-align: center;">
-    <img src="gato_ninja.png" width="150" alt="Gato Ninja" />
-  </div>
-</div>
 
-<div style="float: right; width: 30%; text-align: right;">
-  <br>
-  <img src="gato_ninja.png" width="150" alt="Gato Ninja" />
-</div>
 
-<div style="width: 65%;">
-  <p>💻 Estoy en GitHub como <b>robertpillaca27</b></p>
-  <p>🌱 Actualmente aprendiendo <b>Lenguaje C, React.js, Node.js</b> y gestión de entornos de BD</p>
-  <p>💬 Pregúntame acerca de <b>SQL Server, Java, Python, Modelado de BD y BI</b></p>
-  <p>📫 Mis experiencias y perfil en <b>LinkedIn</b></p>
-</div>
 
-<br clear="all" />
 
 ## 🧩 Mis Proyectos
 
