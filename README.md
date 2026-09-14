@@ -23,7 +23,7 @@
         <p>💬 Pregúntame acerca de <b>SQL Server, Java, Python, Modelado de BD y BI</b></p>
         <p>📫 Mis experiencias y perfil en <b>LinkedIn</b></p>
       </td>
-      <td width="40%" height="40%" align="center" valign="middle" style="border: none;">
+      <td width="40%" height="30%" align="center" valign="middle" style="border: none;">
         <a href="https://git.io/typing-svg">
           <img src="gato_ninja.png" alt="Typing Code Animation" />
         </a>
