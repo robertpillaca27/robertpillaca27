@@ -44,7 +44,7 @@
   </div>
 </div>
 
-<div style="float: right; width: 30%; text-align: center;">
+<div style="float: right; width: 30%; text-align: right;">
   <br>
   <img src="gato_ninja.png" width="150" alt="Gato Ninja" />
 </div>
