@@ -25,9 +25,7 @@
         <p>📫 Mis experiencias y perfil en <b>LinkedIn</b></p>
       </td>
       <td width="45%" align="center" valign="middle">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=500&color=00FF00&background=0D111700&center=false&vCenter=true&multiline=true&width=380&height=180&lines=class+SystemCore+%7B;++public+static+void+main(String%5B%5D+args)+%7B;++++while+(running)+%7B;++++++System.out.println(%22%3E+Executing...%22)%3B;++++++database.query(%22SELECT+*+FROM+data%22)%3B;++++++matrix.renderFrame()%3B;++++%7D;++%7D;%7D" alt="Running Code" />
-        </a>
+        <img src="https://github-readme-readme-stats.vercel.app/api/pin/?username=robertpillaca27&repo=robertpillaca27&theme=tokyonight&show_owner=false" width="100%" alt="Syntax Highlight Code" onerror="this.onerror=null; this.src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=13&pause=1000&color=E06C75&background=0D111700&center=false&vCenter=true&multiline=true&width=380&height=180&lines=function+loadUrl(%24url)+%7B;++%24curl+%3D+curl_init()%3B;++%24header+%3D+%5B%22Cache-Control%22%5D%3B;++if+(%24curl+%21%3D%3D+false)+%7B;++++return+%24data%3B;++%7D;%7D'" />
       </td>
     </tr>
   </table>
