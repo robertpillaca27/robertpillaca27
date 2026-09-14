@@ -33,7 +33,7 @@
 </div>
 
 <p align="right">
-  <img src="gato_ninja.png" />
+  <img src="gato_ninja.png" width="200" alt="Gato Ninja" />
 </p>
 
 <p>💻 Estoy en GitHub como <b>robertpillaca27</b></p>
