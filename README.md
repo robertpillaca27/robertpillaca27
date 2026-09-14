@@ -14,6 +14,7 @@
 - 📫 Mis experiencias y perfil en [LinkedIn](https://www.linkedin.com/in/robert-pillaca)
 
 ---
+
 <div align="center">
   <table border="0">
     <tr>
@@ -24,7 +25,7 @@
         <p>📫 Mis experiencias y perfil en <b>LinkedIn</b></p>
       </td>
       <td width="40%" align="center" valign="middle">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250px" alt="Matrix Digital Rain" />
+        <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="300px" alt="Running Code GIF" />
       </td>
     </tr>
   </table>
