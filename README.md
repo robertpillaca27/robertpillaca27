@@ -29,7 +29,7 @@
       </td>
       <td width="45%" align="center" valign="middle" style="border: none;">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=100&color=61AFEF&background=1E1E1E00&center=false&vCenter=true&multiline=true&width=380&height=180&lines=public+function+loadUrl(%24url)+%7B;++++%24curl+%3D+curl_init()%3B;++++%24header+%3D+%5B%22Cache-Control%22%5D%3B;++++return+%24companyList%3B;%7D" alt="Typing Code Animation" />
+          <img src="gato_ninja.png" alt="Typing Code Animation" />
         </a>
       </td>
     </tr>
