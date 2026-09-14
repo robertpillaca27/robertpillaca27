@@ -1,6 +1,12 @@
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-emojis/master/gif/wave.gif" width="30px">, Soy Robert Pillaca</h1>
+<h1 align="center">Hola <img <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, Soy Robert Pillaca</h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas || Desarrollador Web Full Stack en formación || Apasionado por la tecnología</h3>
 
+<h1 align="center">
+  Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px">, soy 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Robert+Pillaca;Ingeniero+de+Sistemas;Desarrollador+Software" alt="Typing SVG" />
+  </a>
+</h1>
 ---
 
 - 💻 Estoy en GitHub como [robertpillaca27](https://github.com/robertpillaca27)
