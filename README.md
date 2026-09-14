@@ -15,7 +15,7 @@
 
 ---
 <div align="center">
-        <img src="https://img.magnific.com/vector-premium/lindo-gato-ninja-computadora-portatil_332004-934.jpg?semt=ais_hybrid&w=740&q=80" />
+        <img src="https://raw.githubusercontent.com/robertpillaca27/robertpillaca27/d0536f8beb0cb8fe256b22185bc587cef390b0fe/descarga.png"/>
 </div>
 
 <div align="center">
