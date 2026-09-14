@@ -32,7 +32,7 @@
   </table>
 </div>
 
-<img src="gato_ninja.png" width="30%" align="right" alt="Gato Ninja" />
+<img src="gato_ninja.png" width="30%" hight="20%" align="right" alt="Gato Ninja" />
 
 <p>💻 Estoy en GitHub como <b>robertpillaca27</b></p>
 <p>🌱 Actualmente aprendiendo <b>Lenguaje C, React.js, Node.js</b> y gestión de entornos de BD</p>
