@@ -42,7 +42,7 @@
         <p>💬 Pregúntame acerca de <b>SQL Server, Java, Python, Modelado de BD y BI</b></p>
         <p>📫 Mis experiencias y perfil en <b>LinkedIn</b></p>
       </td>
-      <td width="40%" align="center" valign="middle" style="border: none;">
+      <td width="20%" align="center" valign="middle" style="border: none;">
         <img src="https://img.magnific.com/vector-premium/lindo-gato-ninja-computadora-portatil_332004-934.jpg?semt=ais_hybrid&w=740&q=80" />
       </td>
     </tr>
