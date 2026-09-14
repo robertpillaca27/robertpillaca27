@@ -24,7 +24,7 @@
         <p>📫 Mis experiencias y perfil en <b>LinkedIn</b></p>
       </td>
       <td width="40%" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-matrix.svg" width="180px" alt="Matrix Code" />
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250px" alt="Matrix Digital Rain" />
       </td>
     </tr>
   </table>
