@@ -18,14 +18,16 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="60%" valign="middle" align="left">
+      <td width="55%" valign="middle" align="left">
         <p>💻 Estoy en GitHub como <b>robertpillaca27</b></p>
         <p>🌱 Actualmente aprendiendo <b>Lenguaje C, React.js, Node.js</b> y gestión de entornos de BD</p>
         <p>💬 Pregúntame acerca de <b>SQL Server, Java, Python, Modelado de BD y BI</b></p>
         <p>📫 Mis experiencias y perfil en <b>LinkedIn</b></p>
       </td>
-      <td width="40%" align="center" valign="middle">
-        <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="300px" alt="Running Code GIF" />
+      <td width="45%" align="center" valign="middle">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=500&color=00FF00&background=0D111700&center=false&vCenter=true&multiline=true&width=380&height=180&lines=class+SystemCore+%7B;++public+static+void+main(String%5B%5D+args)+%7B;++++while+(running)+%7B;++++++System.out.println(%22%3E+Executing...%22)%3B;++++++database.query(%22SELECT+*+FROM+data%22)%3B;++++++matrix.renderFrame()%3B;++++%7D;++%7D;%7D" alt="Running Code" />
+        </a>
       </td>
     </tr>
   </table>
