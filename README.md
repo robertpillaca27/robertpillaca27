@@ -15,7 +15,7 @@
 
 ---
 <div align="center">
-        <img src="https://raw.githubusercontent.com/robertpillaca27/robertpillaca27/d0536f8beb0cb8fe256b22185bc587cef390b0fe/descarga.png"/>
+      <img src="https://raw.githubusercontent.com/robertpillaca27/robertpillaca27/d0536f8beb0cb8fe256b22185bc587cef390b0fe/descarga.png" width="220px" alt="Gato Hacker PNG" />
 </div>
 
 <div align="center">
