@@ -25,7 +25,7 @@
         <p>📫 Mis experiencias y perfil en <b>LinkedIn</b></p>
       </td>
       <td width="45%" align="center" valign="middle">
-        <img src="https://github-readme-readme-stats.vercel.app/api/pin/?username=robertpillaca27&repo=robertpillaca27&theme=tokyonight&show_owner=false" width="100%" alt="Syntax Highlight Code" onerror="this.onerror=null; this.src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=13&pause=1000&color=E06C75&background=0D111700&center=false&vCenter=true&multiline=true&width=380&height=180&lines=function+loadUrl(%24url)+%7B;++%24curl+%3D+curl_init()%3B;++%24header+%3D+%5B%22Cache-Control%22%5D%3B;++if+(%24curl+%21%3D%3D+false)+%7B;++++return+%24data%3B;++%7D;%7D'" />
+        <img src="https://carbon-now-sh.vercel.app/api/react?bg=rgba(13,17,23,1)&t=one-dark&wt=none&l=javascript&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=true&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=public%20function%20loadUrl(%24url)%20%7B%0A%20%20%24curl%20%3D%20curl_init()%3B%0A%20%20%24header%20%3D%20%5B%22Cache-Control%22%5D%3B%0A%20%20if%20(%24curl%20!%3D%3D%20false)%20%7B%0A%20%20%20%20return%20%24companyList%3B%0A%20%20%7D%0A%7D" width="100%" alt="Code Editor Syntax" />
       </td>
     </tr>
   </table>
