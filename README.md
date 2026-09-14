@@ -43,7 +43,7 @@
         <p>📫 Mis experiencias y perfil en <b>LinkedIn</b></p>
       </td>
       <td width="40%" align="center" valign="middle" style="border: none;">
-        <img src="https://img.freepik.com/vector-gratis/ilustracion-concepto-hacker_114360-2011.jpg" width="220px" alt="Gato Hacker" />
+        <img src="https://img.magnific.com/vector-premium/lindo-gato-hacker-que-opera-logotipo-tecnologia-mascota-computadora-portatil_513640-3219.jpg?semt=ais_hybrid&w=740&q=80" />
       </td>
     </tr>
   </table>
