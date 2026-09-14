@@ -17,13 +17,13 @@
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
-      <td width="70%" valign="middle" align="left" style="border: none;">
+      <td width="80%" valign="middle" align="left" style="border: none;">
         <p>💻 Estoy en GitHub como <b>robertpillaca27</b></p>
         <p>🌱 Actualmente aprendiendo <b>Lenguaje C, React.js, Node.js</b> y gestión de entornos de BD</p>
         <p>💬 Pregúntame acerca de <b>SQL Server, Java, Python, Modelado de BD y BI</b></p>
         <p>📫 Mis experiencias y perfil en <b>LinkedIn</b></p>
       </td>
-      <td width="30%" height="20%" align="center" valign="middle" style="border: none;">
+      <td width="25%" height="20%" align="center" valign="middle" style="border: none;">
         <a href="https://git.io/typing-svg">
           <img src="gato_ninja.png" alt="Typing Code Animation" />
         </a>
