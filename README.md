@@ -18,7 +18,7 @@
   <table style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
       <td width="75%" valign="middle" align="left" style="border: none;">
-        <p>💻 Estoy en GitHub como <b>robertpillaca27</b></p>
+        <p>💻 Estoy en GitHub como (https://github.com/robertpillaca27)</p>
         <p>🌱 Actualmente aprendiendo <b>Lenguaje C, React.js, Node.js</b> y gestión de entornos de BD</p>
         <p>💬 Pregúntame acerca de <b>SQL Server, Java, Python, Modelado de BD y BI</b></p>
         <p>📫 Mis experiencias y perfil en <b>LinkedIn</b></p>
